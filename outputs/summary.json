@@ -1,0 +1,17 @@
+{
+  "test_queries": 60,
+  "threshold_from_train_dev": 0.839,
+  "answer_source_selection": "best3",
+  "relevance_rule": ">= 60% gold content words",
+  "behaviour_accuracy_exact": 0.9,
+  "safe_decision_accuracy": 0.9,
+  "answered_rate_on_answerable": 0.872,
+  "abstention_rate_on_unanswerable": 0.952,
+  "citation_support_rate": 0.382,
+  "citation_verbatim_rate": 1.0,
+  "answer_token_f1_vs_reference_mean": 0.305,
+  "latency_ms_median": 245.0,
+  "latency_ms_p90": 335.0,
+  "cross_script_all_variants_in_top5": 0.56,
+  "cross_script_same_top1_passage": 0.28
+}

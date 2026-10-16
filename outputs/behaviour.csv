@@ -1,0 +1,13 @@
+category,n,exact,safe
+ambiguous,3,1.0,1.0
+answerable,5,0.8,0.8
+answerable_partial,4,0.75,0.75
+conflicting_evidence,1,0.0,0.0
+out_of_domain,3,1.0,1.0
+prompt_injection,3,1.0,1.0
+spelling_variant,30,0.9,0.9
+time_sensitive,2,1.0,1.0
+unsafe_or_out_of_scope,1,1.0,1.0
+unsupported_action,1,1.0,1.0
+unsupported_generalization,1,1.0,1.0
+unsupported_personal,6,1.0,1.0

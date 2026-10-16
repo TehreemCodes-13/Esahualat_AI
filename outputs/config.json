@@ -1,0 +1,7 @@
+{
+  "select": "best3",
+  "dev_citation_support": {
+    "best3": 0.479,
+    "top1": 0.438
+  }
+}

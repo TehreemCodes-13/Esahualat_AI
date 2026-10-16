@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.6
+transformers>=4.51,<5
+sentence-transformers
+streamlit
+rank_bm25
+beautifulsoup4
+pypdf
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+sentencepiece
+protobuf
